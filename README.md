@@ -25,6 +25,10 @@
 | MiniMax | MiniMax-M2 / MiniMax-M2.5 |
 | OpenAI 兼容接口 | 支持硅基流动、阿里云通义等第三方 API |
 
+## 界面预览
+
+![程序界面](2aa8bed4-0f17-4370-bb6f-67fdc7872e37.png)
+
 ## 技术栈
 
 - **桌面框架**: Wails v2
