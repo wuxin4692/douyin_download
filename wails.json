@@ -1,0 +1,23 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "douyin-tool",
+  "outputfilename": "抖音工具箱",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:url": "http://localhost:5173",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "info": {
+    "companyName": "douyin-tool",
+    "productName": "抖音工具箱",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright 2024",
+    "comments": "抖音视频下载与文案提取工具"
+  },
+  "wailsjsdir": "./frontend/src",
+  "version": "2",
+  "outputType": "desktop"
+}

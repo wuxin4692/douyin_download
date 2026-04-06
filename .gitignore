@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/bin/
+build/windows/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Package files
+*.zip
+*.tar
+*.tar.gz
+
+# Go
+vendor/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Sensitive files
+*.pem
+*.key
+.env
